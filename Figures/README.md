@@ -1,0 +1,8 @@
+Figures
+================
+
+## Description
+
+Figures live here, including images (saved as PNG files) and data
+referenced or used for tables, for use in the `README`, presentations,
+and the `PROJECT`.

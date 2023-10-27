@@ -1,0 +1,6 @@
+---
+title: "Notes"
+format: gfm
+---
+
+Keep your own notes as you work through *Statistical Rethinking* here. It is recommended to do so as an organized series of Quarto files (e.g., `Week-03-Notes.qmd`) rendered with `format: gfm` (i.e., with GitHub-flavored markdown) to produce a Markdown file (e.g., `Week-03-Notes.md`).
